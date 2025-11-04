@@ -15,9 +15,9 @@
 ## 📂 Structure
 - **system/** - OS-level checks, cleanup, monitoring  
 - **automation/** - Backup, restore, deploy, and cron jobs
-- **user/** - # User and permission management
+- **user/** - User and permission management
 - **git/** - Git automation scripts 
-- **docker/** - Docker cleanup and container management
+- **docker/** – Common container management commands  
 - **cicd/** - Scripts for Jenkins/GitHub Actions pipeline tasks
 - **misc/** - Miscellaneous or experimental scripts
 
