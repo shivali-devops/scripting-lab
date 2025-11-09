@@ -17,9 +17,9 @@
 - **automation/** - Backup, restore, deploy, and cron jobs
 - **user/** - User and permission management
 - **git/** - Git automation scripts 
-- **docker/** – Common container management commands  
-- **cicd/** - Scripts for Jenkins/GitHub Actions pipeline tasks
-- **misc/** - Miscellaneous or experimental scripts
+- **docker/** – Common container management commands(future scope)  
+- **cicd/** - Scripts for Jenkins/GitHub Actions pipeline tasks(future scope)
+- **misc/** - Miscellaneous or experimental scripts(future scope)
 
 ---
 
