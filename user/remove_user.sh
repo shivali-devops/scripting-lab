@@ -6,6 +6,10 @@
 # Usage: sudo ./remove_user.sh <username>
 # ==========================================
 
+# set -e
+# set -u
+# set -o pipefail
+
 USER=$1
 BACKUP_DIR="/backup"
 LOG_FILE="/var/log/user_management.log"
