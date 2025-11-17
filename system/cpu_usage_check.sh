@@ -8,7 +8,7 @@
 # ============================================================
 
 LOG_FILE="/var/log/cpu_usage.log"
-THRESHOLD=80
+THRESHOLD=${1:-80}
 DATE=$(date '+%Y-%m-%d %H:%M:%S')
 
 cpu_usage=$(top -bn1 | grep "Cpu(s)" | awk '{print $2 + $4}')
