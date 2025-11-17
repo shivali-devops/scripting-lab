@@ -1,11 +1,10 @@
 #!/bin/bash
 ####################
-#
 # script : create_user.sh
 # Description: Creates a new user with a home directory and optional sudo access.
 # temporary password, and forces password change on first login.
 # Usage: sudo ./create_user.sh <username> [sudo]
-#
+# Author: Shivali Kakade
 ####################
 
 # -e → exit on error
