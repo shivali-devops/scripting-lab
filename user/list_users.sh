@@ -3,6 +3,7 @@
 # Script: list_users.sh
 # Description: Lists all normal (human) users on the system.
 # Usage: ./list_users.sh
+# Author: Shivali Kakade
 # ==========================================
 
 echo "=== Normal System Users ==="
