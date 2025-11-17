@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
 # ============================================================
-# Script Name: cpu_check.sh
+# Script Name: cpu_usage_check.sh
 # Description: Monitors CPU usage and prints alert if threshold is crossed.
-# Usage: ./cpu_check.sh
+# Usage: ./cpu_usage_check.sh
 # Author: Shivali Kakade
 # ============================================================
 
