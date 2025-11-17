@@ -4,6 +4,7 @@
 # Description: Safely deletes a user after confirmation, backs up home directory,
 # and logs the operation for auditing.
 # Usage: sudo ./remove_user.sh <username>
+# Author: Shivali Kakade
 # ==========================================
 
 # set -e
