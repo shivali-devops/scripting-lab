@@ -3,6 +3,7 @@
 # Script: list_active_users.sh
 # Description: Lists all users currently logged into the system.
 # Usage: ./list_active_users.sh
+# Author: Shivali Kakade
 # ==========================================
 
 echo "=== Active Users Currently Logged In ==="
